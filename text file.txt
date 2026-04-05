@@ -97,7 +97,7 @@ Dashboard Components:
 Team Members:
 - Gokul R
 - Janarthanan V
-- Harinath V
+- Harinath M
 - Gokul S
 - Harivarshini P
 
