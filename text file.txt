@@ -1,112 +1,92 @@
-EcoPlastix Solutions: Turning Plastic Waste into Sustainable Resources
-
-1. Introduction
-Plastic pollution is one of the most pressing global environmental issues. Improper disposal contaminates ecosystems, endangers wildlife, and causes long-term ecological damage.
-
-EcoPlastix Solutions is designed as a smart, sustainable system to manage and recycle plastic waste effectively. By leveraging modern technologies, it collects, processes, and transforms discarded plastics into reusable, eco-friendly products. The initiative promotes sustainability by reducing pollution and encouraging responsible recycling practices.
-
+RePlastix Innovations: Transforming Plastic Waste into Sustainable Solutions1. Introduction
+Plastic pollution is one of the most pressing global environmental issues. Improper disposal contaminates ecosystems, endangers wildlife, and causes long term ecological damage.
+Replastix Solutions is designed as a smart, sustainable system to manage and recycle plastic waste effectively. By leveraging modern technologies, it collects, processes, and transforms discarded plastics into reusable, eco friendly products. The initiative promotes sustainability by reducing pollution and encouraging responsible recycling practices.
 2. Objectives
-- Build an efficient plastic waste management framework
-- Encourage recycling and reuse of plastic materials
-- Minimize environmental pollution
-- Monitor waste collection and recycling activities
-- Provide actionable insights through analytics and reporting
-
+•	Build an efficient plastic waste management framework
+•	Encourage recycling and reuse of plastic materials
+•	Minimize environmental pollution
+•	Monitor waste collection and recycling activities
+•	Provide actionable insights through analytics and reporting
 3. User Story
 Everyday life generates large amounts of plastic waste, yet proper recycling systems are often missing.
-
 EcoPlastix Solutions offers a digital platform where:
-- Users can track their waste contributions
-- Recycling units manage processing operations
-- Organizations monitor environmental impact
-
+•	Users can track their waste contributions
+•	Recycling units manage processing operations
+•	Organizations monitor environmental impact
 This system motivates responsible disposal and supports sustainable living.
-
 4. System Modules
-- User Module: Stores user details (name, contact, location)
-- Waste Collection Module: Records type and quantity of plastic collected from different sources
-- Recycling Module: Oversees recycling processes and conversion into reusable materials
-- Product Module: Tracks recycled products, their type, and usage
-- Analytics Module: Provides insights on collection efficiency, recycling rates, and environmental benefits
-
+•	User Module: Stores user details (name, contact, location)
+•	Waste Collection Module: Records type and quantity of plastic collected from different sources
+•	Recycling Module: Oversees recycling processes and conversion into reusable materials
+•	Product Module: Tracks recycled products, their type, and usage
+•	Analytics Module: Provides insights on collection efficiency, recycling rates, and environmental benefits
 5. System Architecture
 Built on modern cloud/CRM technologies, the system includes:
-- Custom Objects (User, Waste, Recycling, Product, Analytics)
-- Defined relationships between objects
-- Validation rules for data integrity
-- Automated flows for process control
-- Reports and dashboards for visualization
-
+•	Custom Objects (User, Waste, Recycling, Product, Analytics)
+•	Defined relationships between objects
+•	Validation rules for data integrity
+•	Automated flows for process control
+•	Reports and dashboards for visualization
 6. Development Steps
-- Designed system architecture
-- Created custom objects
-- Established relationships
-- Built user interface
-- Implemented validation rules
-- Developed automation flows
-- Generated reports and dashboards
-- Tested functionality
-
+1.	Designed system architecture
+2.	Created custom objects
+3.	Established relationships
+4.	Built user interface
+5.	Implemented validation rules
+6.	Developed automation flows
+7.	Generated reports and dashboards
+8.	Tested functionality
 7. Validation Rule
 To ensure valid data entry:
 Formula: Waste_Quantity < 0
 Error Message: Waste quantity cannot be negative
-
 8. Flow Automation
-Record-triggered flows are used to:
-- Prevent duplicate waste entries
-- Validate collection data
-- Ensure proper recycling records
-- Display error messages for invalid inputs
-
+Record triggered flows are used to:
+•	Prevent duplicate waste entries
+•	Validate collection data
+•	Ensure proper recycling records
+•	Display error messages for invalid inputs
 9. Reports & Dashboards
 Reports:
-- Waste Collection Report
-- Recycling Efficiency Report
-
+•	Waste Collection Report
+•	Recycling Efficiency Report
 Dashboard Components:
-- Plastic Type Distribution (Pie Chart)
-- Recycling Rate (Bar Chart)
-- Total Waste Processed (Metric)
-
+•	Plastic Type Distribution (Pie Chart)
+•	Recycling Rate (Bar Chart)
+•	Total Waste Processed (Metric)
 10. Testing
-- Adding valid waste data → Successful
-- Negative quantity → Error displayed
-- Duplicate entry → Error shown
-- Dashboard → Accurate data displayed
-
+•	Adding valid waste data → Successful
+•	Negative quantity → Error displayed
+•	Duplicate entry → Error shown
+•	Dashboard → Accurate data displayed
 11. Advantages
-- Reduces plastic pollution
-- Promotes recycling awareness
-- Enables efficient waste tracking
-- Supports sustainability goals
-- Provides data-driven insights
-
+•	Reduces plastic pollution
+•	Promotes recycling awareness
+•	Enables efficient waste tracking
+•	Supports sustainability goals
+•	Provides data driven insights
 12. Limitations
-- Requires internet connectivity
-- Adoption by users is critical
-- Limited without advanced recycling integration
-
+•	Requires internet connectivity
+•	Adoption by users is critical
+•	Limited without advanced recycling integration
 13. Future Enhancements
-- IoT-enabled smart bins
-- Mobile app for user engagement
-- AI-based waste sorting
-- Partnerships with recycling industries
-
+•	IoT enabled smart bins
+•	Mobile app for user engagement
+•	AI based waste sorting
+•	Partnerships with recycling industries
 14. Team Structure & Work Distribution
 Team Members:
-- Gokul R
-- Janarthanan V
-- Harinath M
-- Gokul S
-- Harivarshini P
-
+•	Gokul R
+•	Janarthanan V
+•	Harinath M
+•	Gokul S
+•	Harivarshini P
 Work Distribution:
-- Member 1 – Development (Modules & Logic)
-- Member 2 – UI/UX Design (Interface & Experience)
-- Member 3 – Reports & Dashboard (Analytics)
-- Member 4 – Testing
-- Member 5 – Development (Additional features)
-
+•	Member 1 – Development (Modules & Logic)
+•	Member 2 – UI/UX Design (Interface & Experience)
+•	Member 3 – Reports & Dashboard (Analytics)
+•	Member 4 – Testing
+•	Member 5 – Development (Additional features)
 15. Conclusion
-EcoPlastix Solutions demonstrates how technology can transform plastic waste into sustainable resources. By combining efficient waste management, recycling processes, and analytics, the project contributes to a cleaner environment and encourages eco-friendly practices.
+Replastix Solutions demonstrates how technology can transform plastic waste into sustainable resources. By combining efficient waste management, recycling processes, and analytics, the project contributes to a cleaner environment and encourages eco friendly practices.
+
